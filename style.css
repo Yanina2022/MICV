@@ -1,0 +1,103 @@
+body {
+    background-color: rgb(7, 5, 0);
+    width:100vw;
+    min-height: 100vh;
+    margin:0;
+}
+
+html {
+    scroll-behavior: smooth;
+
+}
+
+#nav {
+    font-size: larger;
+    color: #01030c;
+    position: relative;
+}
+
+#fondo {
+    
+    position: relative;
+    background: url(.../3400825.jpg) no-repeat;
+
+    
+  
+
+}
+
+h4,
+h3 {
+    text-align: center;
+    color: rgb(214, 214, 228);
+    text-shadow: 4px -12px 9px rgba(1, 8, 22, 0.6);
+    font-size: xx-large;
+    letter-spacing: 15px;
+}
+
+#Professional {
+    top: 10px;
+}
+
+#presentacion {
+    text-shadow: 4px -12px 9px rgba(235, 238, 243, 0.6);
+    top: 5px;
+    text-align: left;
+
+    font-size: xx-large;
+    color: rgb(235, 229, 221);
+    position: relative;
+    justify-content: center;
+    left: 150px;
+    transition: .5s ease all;
+    letter-spacing: 2px;
+
+}
+
+#presentacion img {
+    top: 150px;
+    width: 15%;
+    left: 750px;
+    position: relative;
+    border-radius: 177px 177px 177px 158px;
+    -webkit-border-radius: 177px 177px 177px 158px;
+    -moz-border-radius: 177px 177px 177px 158px;
+    border: 1px solid #01030c;
+}
+
+p,
+h5 {
+    color: rgb(222, 235, 230);
+    font-size: medium;
+}
+
+#skills {
+    margin-top: 300px;
+    color: antiquewhite;
+    padding: 10px;
+    position: relative;
+    letter-spacing: 15px;
+}
+
+
+#carouselExampleFade {
+    width: 35%;
+    left: 800px;
+    top: -290px;
+    text-align: center;
+}
+
+#Proyects {
+    position: relative;
+    top: 250px;
+    text-align: center;
+    right: 250px;
+    
+}
+
+
+footer {
+    background-color: rgb(192, 12, 21);
+    position: relative;
+    top: 150px;
+}
